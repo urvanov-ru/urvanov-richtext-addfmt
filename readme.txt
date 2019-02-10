@@ -62,3 +62,8 @@ e.g.
 
 = 0.1 =
 * First release
+
+== Upgrade Notice ==
+
+Make sure to upgrade to the latest release when possible to ensure you avoid bugs others have found and enjoy new features.
+
